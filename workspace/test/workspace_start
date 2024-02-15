@@ -1,0 +1,2 @@
+f = open("C:\Users\jorda\OneDrive\Desktop\PathOfBuilding-dev", "r")
+print (f.read())
