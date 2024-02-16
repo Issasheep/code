@@ -1,4 +1,7 @@
 import random
+import pygame
+import sys
+import os
 
 amount_dropped = 10
 
