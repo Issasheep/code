@@ -1,4 +1,3 @@
-#lets crunshy some numbers 
 import random 
 import pygame
 import sys
