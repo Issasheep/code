@@ -1,6 +1,8 @@
 import os
 import webbrowser
-from twill.commands import *
+import requests
+import sys
+import urllib.request
 #setting up a basic workspace with all the tab that i would use to work or email people
 
 #if os.path.exists("testing.txt"):
@@ -18,6 +20,7 @@ from twill.commands import *
 webbrowser.open_new('https://www.google.com/gmail/about/')
 webbrowser.open_new('https://www.w3schools.com/python/default.asp')
 webbrowser.open_new('https://github.com/')
+os.system("D:\SteamLibrary\steamapps\common\SHENZHEN IO\Shenzhen.exe")
 #quit(0)
 #webbrowser.open_new('')
 #webbrowser.open_new('')
