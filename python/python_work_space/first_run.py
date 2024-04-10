@@ -21,7 +21,7 @@ from urllib.request import urlopen
 #webbrowser.open_new('https://www.google.com/gmail/about/')
 #webbrowser.open_new('https://www.w3schools.com/python/default.asp')
 #webbrowser.open_new('https://github.com/')
-os.system("start D:\SteamLibrary\steamapps\common\Batman Arkham Asylum GOTY\Binaries\ShippingPC-BmGame.exe")
+os.system("start C:\Users\jorda\OneDrive\Desktop\9781837630325")
 
 #quit(0)
 #webbrowser.open_new('')
