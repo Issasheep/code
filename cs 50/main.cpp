@@ -1,6 +1,15 @@
 #include <iostream>
 using namespace std;
 
+int loot_drops() {
+  string loot_rarity[4] = {"common", "rare", "epic","legendary"}
+  int loot_rarity[4] = {"common", "rare", "epic","legendary"}
+
+
+  return 
+}
+
+
 int main() {
   int first_num;
   int second_num;
