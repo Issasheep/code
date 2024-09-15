@@ -1,6 +1,6 @@
 # One way to sort two numbers into order
-num1 = float(input("Enter a number: "))
-num2 = float(input("Enter a second number: "))
+num1 = int(input("Enter a number: "))
+num2 = int(input("Enter a second number: "))
 
 # We will use nested IF statements here
 if (num1 == num2):
